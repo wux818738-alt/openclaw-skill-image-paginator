@@ -138,3 +138,41 @@ python scripts/slice_n_pdf.py "/Users/bob/Desktop/1.jpg" "/Users/bob/Desktop/2.j
 python scripts/slice_n_pdf.py "/abs/path/webpage.jpg" \
   -d "./results" --cols 1 --rows 3 --tile 3000 --gutter 20 --clean
 ```
+
+---
+
+## 参数速查表
+
+| 参数 | 默认值 | 说明 |
+|------|--------|------|
+| `--tile` | 2000 | 每格切片高度（像素），建议 ≥ 100 且 > --bleed |
+| `--bleed` | 200 | 上下切片重叠高度（像素），必须 < tile |
+| `--cols` | 2 | 每页网格列数（1-10） |
+| `--rows` | 2 | 每页网格行数（1-10） |
+| `--gutter` | 40 | 格子间距（像素） |
+| `--edge` | 25 | 页面边距（像素） |
+| `--no-numbers` | — | 关闭页码 |
+| `--clean` | — | 生成后清理临时切片图 |
+
+> ⚠️ **参数校验**：脚本会自动检查 tile > bleed、cols/rows 在合理范围内、文件存在等，发现问题直接报错退出。
+
+---
+
+## 一键安装脚本
+
+```bash
+# 方法一：克隆后安装
+git clone https://github.com/wux818738-alt/openclaw-skill-image-paginator.git
+cd openclaw-skill-image-paginator
+bash install.sh
+
+# 方法二：直接下载
+curl -fsSL https://github.com/wux818738-alt/openclaw-skill-image-paginator/archive/refs/heads/main.zip -o /tmp/skill.zip
+unzip /tmp/skill.zip -d ~/.qclaw/skills/
+pip3 install fpdf2 Pillow
+```
+
+安装后直接运行（不需要指定完整路径）：
+```bash
+python ~/.qclaw/skills/image-paginator/scripts/slice_n_pdf.py <图片> -d <输出目录>
+```
