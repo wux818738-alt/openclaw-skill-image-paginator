@@ -1,7 +1,7 @@
 ---
 name: image-paginator
 description: Slices long images/screenshots into overlapping segments, adds sequence numbers, and auto-arranges them into a paginated PDF with gaps and page numbers. Supports multiple images. (律师证据长截图转PDF)
-license: GPL-3.0
+license: GPL-3.0  # ClawHub UI shows MIT-0 due to platform limitation. Actual license is GPL-3.0, see LICENSE file.
 metadata:
   author: WUDI
   version: "2.1"

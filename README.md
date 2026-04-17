@@ -4,6 +4,16 @@
 
 ---
 
+## ⚖️ License | 许可证
+
+本技能源码采用 **GNU GPL-3.0** 许可证。完整文本见 [LICENSE](LICENSE) 文件。
+
+> ⚠️ **ClawHub 显示说明**：ClawHub 平台目前仅支持 MIT-0 展示，该页面显示 MIT-0 为平台限制，不影响本项目的实际许可证。
+> 下载安装本技能即表示同意遵守 [GPL-3.0](LICENSE) 的条款。
+
+---
+---
+
 ## 封面效果
 
 ![封面](https://raw.githubusercontent.com/wux818738-alt/openclaw-skill-image-paginator/main/cover.png)
