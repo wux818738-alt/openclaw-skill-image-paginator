@@ -1,0 +1,98 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc.
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+
+TERMS AND CONDITIONS
+
+0. Definitions.
+"This License" refers to version 3 of the GNU General Public License.
+"Copyright" also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.
+"The Program" refers to any copyrightable work licensed under this
+License. Each licensee is addressed as "you". "Licensees" and
+"recipients" may be individuals or organizations.
+
+1. Source Code Form.
+The "source code" for a work means the preferred form of the work for
+making modifications to it. "Object code" means any non-source form of a
+work.
+
+2. Basic Permissions.
+All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met. This License explicitly affirms your unlimited
+permission to run the Program. The output from running a covered work is
+covered by this License only if the output, given its content, constitutes
+a covered work. This License acknowledges your rights of fair use or
+other equivalent, as provided by copyright law.
+You may make, run and propagate covered works that you do not convey,
+without conditions so long as your license otherwise remains in force.
+You may convey covered works to others for the sole purpose of having them
+make modifications exclusively for you, or provide you with facilities
+for running those works, provided that you comply with the terms of this
+License in conveying all material for which you do not control copyright.
+Those thus making or running the covered works for you must do so
+exclusively on your behalf, under your direction and control, on terms
+that prohibit them from making any copies of your copyrighted material
+outside their relationship with you.
+
+3. Conveying Non-Source Forms.
+When you convey a covered work in object code form under the terms of
+sections 2 and 3, you must make the complete corresponding source code
+available to the recipients.
+A separable portion of the object code, whose source code is excluded
+from the Corresponding Source as a System Library, need not be included
+in the distribution of the object code.
+Object code embodying the Program may or may not be offered together
+with the Corresponding Source.
+
+4. Termination.
+You may not propagate or modify a covered work except as expressly
+provided under this License. Any attempt otherwise to propagate or modify
+it is void, and will automatically terminate your rights under this
+License.
+However, parties who have received copies, or rights from you under this
+License will not have their licenses terminated so long as such parties
+remain in full compliance.
+
+5. No Surrender of Others' Freedom.
+If conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License. If you cannot convey a
+covered work so as to satisfy simultaneously your obligations under this
+License and any other pertinent obligations, then as a consequence you
+may not convey it at all.
+
+6. Automatic Licensing of Downstream Recipients.
+Each time you convey a covered work, the recipient automatically receives
+a license from the original licensor, to run, modify and propagate that
+work, subject to this License. You are not responsible for enforcing
+compliance by third parties with this License.
+
+7. No Patent License.
+Except as expressly stated herein, no patent license is granted to make,
+use, sell or offer to sell, or import the inventions or other materials
+and information disclosed hereunder.
+
+8. Disclaimer of Warranty.
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER
+EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS
+WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+9. LIMITATION OF LIABILITY.
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
+THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING
+ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT
+OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED
+TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY
+YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY
+OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES.
